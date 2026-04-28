@@ -1,7 +1,5 @@
 ## Solutions for the AAU ROB2 course: Robot kinematics
 
-Desktop application and User Guide for AAL-Band.
-
 ## Prerequisites
 
 Python 3.10.8 (and not newer !!!)
