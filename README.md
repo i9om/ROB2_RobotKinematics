@@ -1,10 +1,11 @@
-## Solutions for the AAU ROB2 course: Robot kinematics
+## Solutions for the AAU ROB2 course: Robot Kinematics
 
 ## Prerequisites
+- Python 3.10.8 (newer versions may break some dependencies)
 
-Python 3.10.8 (and not newer !!!)
+## Setup
 
-## Setup bash
-
-git clone https://https://github.com/i9om/ROB2_RobotKinematics.git
+```bash
+git clone https://github.com/i9om/ROB2_RobotKinematics.git
+cd ROB2_RobotKinematics
 pip install -r requirements.txt
