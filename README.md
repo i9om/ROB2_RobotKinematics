@@ -1,84 +1,12 @@
-Project Title
-A short, punchy one‑liner describing what your project does.
+## Solutions for the AAU ROB2 course: Robot kinematics
 
-🚀 Features
-Clear bullet points describing what the project offers
+Desktop application and User Guide for AAL-Band.
 
-Keep each point short and action‑oriented
+## Prerequisites
 
-Focus on what makes your project useful or unique
+Python 3.10.8 (and not newer !!!)
 
-📦 Installation
-Prerequisites
-Python 3.10+
+## Setup bash
 
-Any required system dependencies
-
-Setup
-bash
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
+git clone https://https://github.com/i9om/ROB2_RobotKinematics.git
 pip install -r requirements.txt
-🧠 Usage
-Basic Example
-python
-from yourmodule import Something
-
-obj = Something()
-obj.run()
-Command Line
-bash
-python main.py --input data/file.txt
-📂 Project Structure
-Code
-yourrepo/
-│
-├── src/               # Main source code
-├── examples/          # Example scripts
-├── tests/             # Unit tests
-├── docs/              # Documentation
-├── requirements.txt
-└── README.md
-🧪 Testing
-bash
-pytest -v
-📚 Documentation
-If you have docs:
-
-Full documentation: /docs
-
-API reference: /docs/api
-
-Tutorials: /docs/tutorials
-
-🤝 Contributing
-Fork the repo
-
-Create a feature branch
-
-Commit your changes
-
-Open a pull request
-
-🗺 Roadmap
-[ ] Feature A
-
-[ ] Feature B
-
-[ ] Improved examples
-
-[ ] Add CI/CD
-
-🐛 Issues
-Found a bug or want a feature?
-Open an issue here: https://github.com/yourname/yourrepo/issues (github.com in Bing)
-
-📄 License
-MIT / Apache‑2.0 / GPL‑3.0 — choose one and link to the file.
-
-🙌 Acknowledgements
-Libraries or frameworks you used
-
-People or institutions who contributed
-
-Research papers you built on
